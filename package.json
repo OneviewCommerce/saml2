@@ -3,7 +3,7 @@
   "version": "2.0.4",
   "description": "SAML 2.0 node helpers",
   "author": "Clever",
-  "main": "index.js",
+  "main": "lib-js/saml2.js",
   "engines": {
     "node": ">=0.10.x"
   },
